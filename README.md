@@ -12,4 +12,12 @@ A gitignore file specifies intentionally untracked files that Git should ignore.
 
  * .dockerignore
 
-A .dockerignore is a configuration file that describes files and directories that you want to exclude when building a Docker image.
+A .doickerignore is a configuration file that describes files and directories that you want to exclude when building a Docker image.
+
+##TL;DR##
+
+To run app.py, follow the instructions:
+```bash
+python app.py <name>
+```
+
